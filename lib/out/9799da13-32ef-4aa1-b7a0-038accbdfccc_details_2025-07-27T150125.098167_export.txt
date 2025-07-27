@@ -1,0 +1,21 @@
+📋 Project Board : Rohit_board
+📝 Description   : Smart board
+👥 Team ID       : Rohit_team (db80e9b2-9387-43ee-9179-3d0d2db891f5)
+📅 Created On    : 2025-07-27T14:49:52.014372
+📌 Status        : CLOSE
+✅ Closed On     : 2025-07-27T14:58:40.300582
+
+📌 Tasks :
+---------------------------------------------------------------------------
+🔹 Task Title   : Rohit_task
+  📄 Description  : contact Type
+  👤 Assigned To  : 35f6d174-868a-47e8-b477-87b091654dfc
+  🕒 Created On   : 2025-07-27T14:51:52.902947
+  📌 Status       : COMPLETE
+---------------------------------------------------------------------------
+🔹 Task Title   : Omkar_task
+  📄 Description  : sql-developer
+  👤 Assigned To  : 35f6d174-868a-47e8-b477-87b091654dfc
+  🕒 Created On   : 2025-07-27T14:57:38.066262
+  📌 Status       : COMPLETE
+---------------------------------------------------------------------------

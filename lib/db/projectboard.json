@@ -1,0 +1,31 @@
+[
+    {
+        "board_id": "9799da13-32ef-4aa1-b7a0-038accbdfccc",
+        "name": "Rohit_board",
+        "description": "Smart board",
+        "team_id": "db80e9b2-9387-43ee-9179-3d0d2db891f5",
+        "creation_time": "2025-07-27T14:49:52.014372",
+        "status": "CLOSE",
+        "end_time": "2025-07-27T14:58:40.300582",
+        "task": [
+            {
+                "task_id": "b83db2f5-4410-44ed-aab8-d3bd4c8207ec",
+                "title": "Rohit_task",
+                "description": "contact Type",
+                "user_id": "35f6d174-868a-47e8-b477-87b091654dfc",
+                "board_id": "9799da13-32ef-4aa1-b7a0-038accbdfccc",
+                "creation_time": "2025-07-27T14:51:52.902947",
+                "status": "COMPLETE"
+            },
+            {
+                "task_id": "368109ae-bc46-4cb3-895a-1ff3cb99a0cc",
+                "title": "Omkar_task",
+                "description": "sql-developer",
+                "user_id": "35f6d174-868a-47e8-b477-87b091654dfc",
+                "board_id": "9799da13-32ef-4aa1-b7a0-038accbdfccc",
+                "creation_time": "2025-07-27T14:57:38.066262",
+                "status": "COMPLETE"
+            }
+        ]
+    }
+]
