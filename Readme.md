@@ -104,7 +104,7 @@ Factwise-Project/
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone `https://github.com/Rohit-Sandanshiv/Factwise_python.git`
+   git clone `https://github.com/Rohit-Sandanshiv/Team_Planning_API-ServiceNow-JIRA.git`
    cd Factwise_python
    ```
 2. Create and activate a virtual environment:
